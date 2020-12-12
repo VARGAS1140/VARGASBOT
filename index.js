@@ -8,7 +8,7 @@
 * ARIS187 ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = '👾VARGAS_250👾'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = '👾GUSTIAN BOT👾'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://www.instagram.com/vargas_250/'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6281227560249'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
